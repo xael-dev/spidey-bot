@@ -1,5 +1,6 @@
 import scrapy
 import logging
+import operator
 
 logging.getLogger('scrapy').setLevel(logging.WARNING)
 
